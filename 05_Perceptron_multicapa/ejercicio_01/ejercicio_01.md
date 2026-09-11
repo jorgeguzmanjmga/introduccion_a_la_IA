@@ -29,7 +29,7 @@ Se obtuvo la siguiente curva de pérdida
 
 Notamos que agregar más capas ocultas no disminuyó el error e incluso de 0 a 200 épocas se aplanó la curva de pérdida.
 
-## Multilayer perceptrón
+## Multilayer perceptrón (Keras)
 
 ### Red original
 
