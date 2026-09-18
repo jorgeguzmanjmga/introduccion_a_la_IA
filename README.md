@@ -14,3 +14,4 @@ El repositorio organiza de forma secuencial las prácticas de laboratorio y ejer
 * **Búsqueda informada**
 * **Perceptrón Multicapa** 
 * **Visión computacional**
+* **Clustering k medias**
