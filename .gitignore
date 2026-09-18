@@ -1,8 +1,35 @@
+# Archivos de entorno y variables secretas
+.env
+.env.*
 
-*.pdf
+# Entornos virtuales y caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
 
-02_Agentes/project/
+# Jupyter Notebooks (archivos temporales)
+.ipynb_checkpoints/
 
-03_Busqueda_no_informada/project/
+# Documentación / PDFs (solo ignorar PDFs de la raíz)
+/*.pdf
 
-04_Busqueda_informada/project/
+# Bases de datos vectoriales (ChromaDB / RAG)
+**/chroma*/
+**/chroma_db/
+
+# Carpetas de proyectos temporales
+**/project/
+
+# Pruebas temporales personales (no entregables)
+test_*.py
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
