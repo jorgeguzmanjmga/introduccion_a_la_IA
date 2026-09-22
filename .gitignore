@@ -1,6 +1,5 @@
 # Archivos de entorno y variables secretas
 .env
-.env.*
 
 # Entornos virtuales y caché de Python
 __pycache__/
